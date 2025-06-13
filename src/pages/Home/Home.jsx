@@ -35,9 +35,7 @@ const Home = () => {
           Crypto Marketplace
         </h1>
         <p>
-          Welcome to the world's largest cryptocurrency price tracker, where you
-          can explore real-time market data and analyse trends across thousands
-          of digital assets.
+          Welcome to the ultimate crypto tracker — explore live market data and uncover powerful insights across thousands of digital assets, all in one dynamic platform.
         </p>
         <form onSubmit={searchHandler}>
           <input
